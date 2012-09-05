@@ -1,1 +1,2 @@
-rvm use ree@fake_ftp --create
+install_on_use_flag=1
+rvm use --create 1.9.3@iba
